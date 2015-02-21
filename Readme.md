@@ -1,0 +1,5 @@
+# bant-plugin
+
+# license
+
+mit
